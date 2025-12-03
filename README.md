@@ -391,6 +391,3 @@ Este proyecto implementa el algoritmo LR(1) siguiendo los principios de diseño 
    - Genera la tabla LR(1)
 3. Se muestran los resultados en pantalla.
 
----
-
-Esta explicación permite a cualquier ingeniero de sistemas comprender el diseño, la lógica y las decisiones técnicas detrás de la implementación del algoritmo LR(1) en esta app Java.
