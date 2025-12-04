@@ -130,6 +130,7 @@ public class LR1App {
         
         // Variable para almacenar el último resultado
         final LR1Parser.LR1Result[] lastResult = new LR1Parser.LR1Result[1];
+        @SuppressWarnings("unchecked")
         final Map<String, java.util.List<String>>[] lastGrammar = new Map[1];
         
         // Lógica del análisis
